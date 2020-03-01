@@ -1,1 +1,3 @@
-# ewrapp
+# maven-project
+
+Simple Maven Project
